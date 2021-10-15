@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/greatfocus/amqp"
+	amqp "github.com/greatfocus/gf-amqp"
 )
 
 func ExampleConfig_timeout() {

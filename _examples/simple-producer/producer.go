@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/greatfocus/amqp"
+	amqp "github.com/greatfocus/gf-amqp"
 )
 
 var (

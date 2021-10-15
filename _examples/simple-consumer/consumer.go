@@ -10,7 +10,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/greatfocus/amqp"
+	amqp "github.com/greatfocus/gf-amqp"
 )
 
 var (

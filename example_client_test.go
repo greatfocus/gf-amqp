@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/greatfocus/amqp"
+	amqp "github.com/greatfocus/gf-amqp"
 )
 
 // This exports a Session object that wraps this library. It
