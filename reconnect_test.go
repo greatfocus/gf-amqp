@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/greatfocus/amqp"
+	amqp "github.com/greatfocus/gf-amqp"
 )
 
 // Every connection should declare the topology they expect
